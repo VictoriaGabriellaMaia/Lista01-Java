@@ -1,6 +1,6 @@
 # Lista01-Java
 
-# Estrutura Sequencial em Java
+## Estrutura Sequencial em Java
 
 1) Receba três notas, calcule e apresente a média aritmética delas.
 2) Faça um programa que receba o salário de um funcionário, calcule e mostre o novo
