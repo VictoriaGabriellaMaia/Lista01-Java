@@ -18,8 +18,8 @@
 
    a. O comprimento de uma circunferência: C = 2 * π * R.   
    
-   b. A área de um círculo: A = π * R2   
+   b. A área de um círculo: A = π * R2.   
    
-   c. A área da superfície de uma esfera: A = 4 * π * R2   
+   c. A área da superfície de uma esfera: A = 4 * π * R2.   
    
    d. O volume de uma esfera: V = 4/3 * π * R3.
