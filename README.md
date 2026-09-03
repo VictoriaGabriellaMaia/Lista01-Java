@@ -2,8 +2,8 @@
 
 ## Estrutura Sequencial em Java
 
-1. Receba três notas, calcule e apresente a média aritmética delas.
-2. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que ele teve um aumento de 25%.
+1) Receba três notas, calcule e apresente a média aritmética delas.
+2) Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que ele teve um aumento de 25%.
 3) Calcule e apresente a área de um losango. As diagonais maior e menor do losango devem ser informadas pelo usuário. OBS: AREA = (DIAGONAL MAIOR * DIAGONAL MENOR) / 2.
 4) Receba uma temperatura em Celsius, calcule e mostre essa temperatura em Fahrenheit. OBS: F = (C * 1,8) + 32.
 5) Receba o valor do salário mínimo e o valor do salário de um funcionário. O algoritmo deve calcular e apresentar a quantidade de salários mínimos que esse funcionário recebe.
